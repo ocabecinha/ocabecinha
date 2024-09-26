@@ -1,7 +1,7 @@
 ## Olá! Eu sou Mateus Vasconcelos
 - 🔭 Atualmente em busca do meu primeiro estágio;
 - 🌱 Estou aprendendo MERN;
-- ✝️ Eu amo Cristo!.
+- ✝️ Eu amo Cristo!
   
 <div style="display: inline_block"><br>
   <img align="center" alt="cabecinha-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
